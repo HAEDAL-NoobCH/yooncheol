@@ -1,0 +1,24 @@
+#name{
+    color:cornflowerblue
+}
+
+h1{
+    background-color: bisque;
+    width: 180px;
+}
+
+.me{
+    color:darkcyan
+}
+
+.good{
+    color:cadetblue
+}
+
+.bad{
+    color:crimson
+}
+
+strong{
+    color:blue
+}
